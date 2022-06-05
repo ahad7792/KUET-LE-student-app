@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LE KUET APP</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="star">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_department">Department of Leather Engineering is offering 4 years Bachelor of Science in Leather Engineering degree in the field of Leather Technology, Footwear Technology and Leather Product Technology. The aim of this program is to educate the future leaders in national and in the international leather industries, leather product industries as well. This program covers features of the leather provide series from raw materials to end use with leather manufacture as the main theme. Raw animal skins are said as hide/skin is one of the most important bi-product of meat industries. After chemicals and mechanicals operation hide/skin turned to leather and used as the most important value-added products. The admission requirements for the Bachelor of Science in Leather Engineering program as per the specified standard of the university admission. The students are admitted into the Bachelor of Science in Leather Engineering program following the undergraduate admission procedure by the university. At least 161.00 credit hours and entire requirements to fulfill this degree must be completed within 4 academic years. Under this program there is provision of 60 seats for each batch. One advisor is appointed for each student who advises the student in the academic program. There is an Academic Committee of Undergraduate Studies (ACUG) of this department which is responsible for monitoring, evaluation and upgrading the performance of the overall course system.</string>
+
+    <string name="message">It is my pleasure to welcome you to the Department of Leather Engineering at Khulna University of Engineering &amp; Technology (KUET). This is an exciting time to be a part of our community with new faculty, undergraduate and graduate programs, and the facilities either just begun or soon to come installed.<br /> <br />
+        The Department of Leather Engineering at Khulna University of Engineering &amp; Technology is the only institution at University level in Bangladesh giving education at bachelor and graduate levels. The department started its journey in the year 2010. Our department receives only 60 students per year. It is established to create, accelerate and educate the students to advance knowledge in leather science, engineering and technology.<br /> <br />
+        Meanwhile, the department has been widely recognized for its excellent research and teaching proficiencies. The graduates from the department have profoundly engaged both academia and industry of home and abroad.<br /> <br />
+        We cordially invite the students to come and shape your life pack for Engineering, Designing, and Entrepreneurship from the Department of Leather Engineering, Faculty of Mechanical Engineering, KUET.<br /> <br />
+        Md. Abul Hashem<br />
+        Head of the Department<br />
+        Department of Leather Engineering<br />
+        Khulna University of Engineering &amp; Technology (KUET)</string>
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "209861018275",
+    "firebase_url": "https://le-kuet-app-default-rtdb.firebaseio.com",
+    "project_id": "le-kuet-app",
+    "storage_bucket": "le-kuet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209861018275:android:20b34efad2beaf181af516",
+        "android_client_info": {
+          "package_name": "abdulahad.imfast.io.lekuet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209861018275-68o2kdg5jc9gvfngqqrohiiolatntgbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZda0O1L5My4tYb93KCiVKO4XIFEMftc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209861018275-68o2kdg5jc9gvfngqqrohiiolatntgbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209861018275:android:bd1b2ac0ea0542c71af516",
+        "android_client_info": {
+          "package_name": "abdulahad.imfast.io.lekuetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209861018275-68o2kdg5jc9gvfngqqrohiiolatntgbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyZda0O1L5My4tYb93KCiVKO4XIFEMftc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209861018275-68o2kdg5jc9gvfngqqrohiiolatntgbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

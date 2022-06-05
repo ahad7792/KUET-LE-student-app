@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:elevation="3dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_margin="@dimen/text_margin">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_pdf"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3-2 LE3025 Hashem Sir Lecture"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/text_size"
+            android:id="@+id/ebookName"
+            android:fontFamily="@string/regular"
+            android:layout_marginLeft="@dimen/text_margin"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ebookDownload"
+            android:src="@drawable/ic_download"
+            android:layout_marginLeft="-30dp"/>
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
